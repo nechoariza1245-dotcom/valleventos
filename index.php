@@ -8,7 +8,7 @@ $evento = [
     'lugar' => 'Discoteca Matilde Lina',
     'direccion' => 'Calle 81 #12-96, Bogotá, Colombia',
     'empresa' => 'VALLEVENTOS',
-    'contacto' => 'Cesar Haydar',
+    'contacto' => 'Juan Arevalo- Coordinador',
     'email' => 'asesoravalemonda@gmail.com',
     'telefono' => '+57 310 555 1234'
 ];
